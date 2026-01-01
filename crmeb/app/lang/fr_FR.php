@@ -12,4 +12,13 @@ return [
     100009 => 'Image téléchargée avec succès',
     100010 => 'Opération réussie',
     100011 => 'Aucune donnée',
+    110002 => 'Veuillez vous connecter',
+    110003 => 'La connexion a expiré, veuillez vous reconnecter',
+    400000 => 'Veuillez sélectionner un avatar d\'utilisateur',
+    400001 => 'Veuillez remplir le surnom de l\'utilisateur',
+    400020 => 'Le mot de passe doit être rempli',
+    400139 => 'Connexion réussie',
+    400140 => 'Nom d\'utilisateur ou mot de passe incorrect',
+    410001 => 'Connexion réussie',
+    410002 => 'Déconnexion réussie',
 ];
